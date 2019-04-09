@@ -5,7 +5,7 @@
 //RX=D6 | TX=D5
 SoftwareSerial s(D6,D5);
 
-String Table = "4";
+String Table = "38";
 ///////////////Parameters & Constants/////////////////
 // WIFI params
 char* WIFI_SSID = "ASUS";

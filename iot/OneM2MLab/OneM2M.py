@@ -138,7 +138,6 @@ def create_descriptor_cin(uri_con, fmt_ex="json"):
 
 # ====================================================
 
-
 # Create a DATA CIN
 def create_data_cin(uri_cnt, value, fmt_ex="json"):
     """
